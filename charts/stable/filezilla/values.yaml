@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/filezilla
   pullPolicy: IfNotPresent
-  tag: 3.59.0@sha256:e6c854d35020a3fafddee718542cd99ef416432fe8424cf1b84559ecec1e6289
+  tag: 3.62.1@sha256:227f5724261e9220cafb8d9f5234264dce7b19db4ad4c793913dae05fd76c001
 
 securityContext:
   readOnlyRootFilesystem: false
