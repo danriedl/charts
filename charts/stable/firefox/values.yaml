@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/firefox
   pullPolicy: IfNotPresent
-  tag: 101.0.1@sha256:ed6178aa78fa1d11cad7c86d6554b3d9e903a82aec65ab6d7fb8ea77aeb6810b
+  tag: 109.0.1@sha256:6edc9ae7fe5450af2f129449908a1d868e5cff049d8471572c68f15e08bfc6a7
 
 securityContext:
   runAsNonRoot: false
